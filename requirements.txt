@@ -1,0 +1,9 @@
+aiogram==3.13.1
+aiosqlite==0.20.0
+python-dotenv==1.0.0
+apscheduler==3.11.0
+pandas==2.3.1
+matplotlib==3.9.2
+pydantic==2.9.2
+click==8.1.0
+xlsxwriter==3.1.9
